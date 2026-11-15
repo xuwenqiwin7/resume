@@ -2,7 +2,7 @@ MIT License — 新增模块代码
 
 Copyright (c) 2026 徐文琪
 
-本许可范围：socioverse.css、socioverse.js、socioverse-audit.js、wenxin.js、project-additions.css、scripts/build_public_stats.py，以及index.html中id为socioverse和wenxin的新增展示组件代码。数据汇总是事实性计数；不通过本许可授予原始语料或游戏内容的任何权利。
+本许可范围：socioverse.css、socioverse.js、socioverse-audit.js、wenxin.js、project-additions.css、scripts/build_public_stats.py、uncovered-analysis-view.js、scripts/analyze_uncovered_content.py，以及index.html中id为socioverse和wenxin的新增展示组件代码。数据汇总是事实性计数；不通过本许可授予原始语料或游戏内容的任何权利。
 不覆盖：原简历网站其余内容、作品集、照片、PDF、字体、图标、第三方素材及未分发的游戏工程与内容。那些内容沿用各自的权利安排。
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
