@@ -1,0 +1,24 @@
+MIT License — 新增模块代码
+
+Copyright (c) 2026 徐文琪
+
+本许可范围：socioverse.css、socioverse.js、socioverse-audit.js、wenxin.js、project-additions.css、scripts/build_public_stats.py，以及index.html中id为socioverse和wenxin的新增展示组件代码。数据汇总是事实性计数；不通过本许可授予原始语料或游戏内容的任何权利。
+不覆盖：原简历网站其余内容、作品集、照片、PDF、字体、图标、第三方素材及未分发的游戏工程与内容。那些内容沿用各自的权利安排。
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
